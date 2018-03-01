@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# IntelliJ project files
+.idea
+*.iml
+out
+.idea/
+
+# Supplid txt files
+/example_dict.txt
+/high scores.txt
